@@ -1,0 +1,7 @@
+# Carpeta de compilacion: se genera con cmake (incluye FTXUI descargado de GitHub con su propio .git)
+monitor/build/
+monitor/build-*/
+
+# Copias de respaldo y archivos de trabajo
+monitor/respaldo_antes_tecla_g/
+monitor/tui/main_nuevo.cpp
